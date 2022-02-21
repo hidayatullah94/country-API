@@ -1,0 +1,19 @@
+.section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 30px auto;
+  flex-wrap: wrap;
+}
+.load {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.result {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
